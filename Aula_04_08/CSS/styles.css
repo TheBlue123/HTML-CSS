@@ -1,0 +1,19 @@
+body {
+    background-color: #c5f8ff;
+    font-family: Arial, sans-serif;
+    
+}
+h1 {
+    color: #292828;
+    text-align: center;
+}
+p {
+    color: #292828;
+    text-align: center;
+    margin: 20px;
+    padding: 23px;
+}
+.carlos{
+    margin: 20px;
+    padding: 20px;
+}
